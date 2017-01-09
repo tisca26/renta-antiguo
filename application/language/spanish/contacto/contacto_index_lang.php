@@ -2,9 +2,9 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['language'] = 'es-MX';
-$lang['title_tag'] = 'OVA - Contacto';
-$lang['metatag_desc'] = 'Contacta con nosotros a través de un sencillo formulario y pronto un asesor de ventas se comunicará contigo.';
-$lang['metatag_keywords'] = 'Oficinas, Virtuales, Amuebladas, Contacto, Formulario, E-mail, Mail';
+$lang['title_tag'] = 'Renta Antiguo - Contacto';
+$lang['metatag_desc'] = 'Alquila un auto clásico para tus eventos sociales a un precio especial. Dodge Club Coupe 1946.';
+$lang['metatag_keywords'] = 'Clásico, Auto, Recorrido, Evento, Social, Antiguo, Renta';
 
 $lang['contacto_page_title'] = 'Contacto';
 $lang['contacto_page_title_sub'] = 'Somos tu mejor opción.';

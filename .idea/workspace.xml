@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa1e6e92-2fe9-4493-9c17-21db2dadf11a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php" afterPath="$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php" afterPath="$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php" afterPath="$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/language/spanish/contacto/contacto_index_lang.php" afterPath="$PROJECT_DIR$/application/language/spanish/contacto/contacto_index_lang.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,11 +75,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="servicio_index_lang.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="servicio_index_lang.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacto_index_lang.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/language/spanish/contacto/contacto_index_lang.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -150,6 +158,7 @@
         <option value="$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php" />
         <option value="$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php" />
         <option value="$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php" />
+        <option value="$PROJECT_DIR$/application/language/spanish/contacto/contacto_index_lang.php" />
       </list>
     </option>
   </component>
@@ -616,6 +625,32 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="spanish" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contacto" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="english" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -751,7 +786,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48119000" />
+    <option name="totallyTimeSpent" value="48442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -788,11 +823,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/images/icons/avatar.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/parallax/parallax-bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1082,8 +1112,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/contacto/contacto_index_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
           <folding />
         </state>
       </provider>
