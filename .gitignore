@@ -78,3 +78,5 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-workspace
 *.sublime-project
 .idea/workspace.xml
+*.xml
+.idea/workspace.xml
