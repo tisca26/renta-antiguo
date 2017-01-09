@@ -45,19 +45,23 @@
         <!-- /Menu generado -->
 
         <!-- Slider Nivo -->
-        <section id="slider" class="slider-parallax">
+        <section id="slider" class="sticky-header">
 
             <div class="nivoSlider">
-                <img src="<?php echo cdn_assets();?>assets/images/slider/2.jpg" alt="Slider 1" title="#nivocaption1" />
-                <img src="<?php echo cdn_assets();?>assets/images/slider/3.jpg" alt="Slider 2" title="#nivocaption2" />
-                <img src="<?php echo cdn_assets();?>assets/images/slider/4.jpg" alt="Slider 3" title="#nivocaption3" />
-                <img src="<?php echo cdn_assets();?>assets/images/slider/5.jpg" alt="Slider 4" title="#nivocaption4" />
+                <img src="<?php echo cdn_assets();?>assets/images/slider/dodge-club-coupe-1946-slider-1.jpg" alt="Dodge Club Coupe 1946 - Exterior" title="#nivocaption1" />
+                <img src="<?php echo cdn_assets();?>assets/images/slider/dodge-club-coupe-1946-slider-2.jpg" alt="Dodge Club Coupe 1946 - Interior" title="#nivocaption2" />
+                <img src="<?php echo cdn_assets();?>assets/images/slider/dodge-club-coupe-1946-slider-3.jpg" alt="Dodge Club Coupe 1946 - Exterior 2" title="#nivocaption3" />
+                <img src="<?php echo cdn_assets();?>assets/images/slider/dodge-club-coupe-1946-slider-4.jpg" alt="Dodge Club Coupe 1946 - Exterior con persona recargada" title="#nivocaption4" />
+                <img src="<?php echo cdn_assets();?>assets/images/slider/dodge-club-coupe-1946-slider-5.jpg" alt="Dodge Club Coupe 1946 - Exterior 3" title="#nivocaption5" />
+                <img src="<?php echo cdn_assets();?>assets/images/slider/dodge-club-coupe-1946-slider-6.jpg" alt="Dodge Club Coupe 1946 - Exterior con persona conduciendo" title="#nivocaption6" />
             </div>
 
-            <div id="nivocaption1" class="nivo-html-caption">Imagenes de prueba</div>
-            <div id="nivocaption2" class="nivo-html-caption">Texto de Prueba</div>
-            <div id="nivocaption3" class="nivo-html-caption">Renta Antiguo</div>
-            <div id="nivocaption4" class="nivo-html-caption">Texto de Prueba</div>
+            <div id="nivocaption1" class="nivo-html-caption">Servicio de 4 horas en un auto clásico de lujo</div>
+            <div id="nivocaption2" class="nivo-html-caption">Interiores impecables</div>
+            <div id="nivocaption3" class="nivo-html-caption">Una experiencia única</div>
+            <div id="nivocaption4" class="nivo-html-caption">Actor: Mauricio Galan</div>
+            <div id="nivocaption5" class="nivo-html-caption">Certificado por el IPN</div>
+            <div id="nivocaption6" class="nivo-html-caption">Sorprende a todo el mundo</div>
 
         </section>
         <!-- /Slider Nivo-->
@@ -76,19 +80,19 @@
                         </div>
                         <div class="col_full">
                             <div class="masonry-thumbs clearfix" data-lightbox="gallery">
-                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/1.jpg" data-lightbox="gallery-item" data-animate="bounceIn" data-delay="0">
+                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/1.jpg" data-lightbox="gallery-item">
                                     <img src="<?php echo cdn_assets();?>assets/images/portfolio/4/1.jpg" alt="Gallery Image">
                                     <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
                                 </a>
-                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/2.jpg" data-lightbox="gallery-item" data-animate="bounceIn" data-delay="200">
+                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/2.jpg" data-lightbox="gallery-item">
                                     <img src="<?php echo cdn_assets();?>assets/images/portfolio/4/2.jpg" alt="Gallery Image">
                                     <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
                                 </a>
-                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/3.jpg" data-lightbox="gallery-item" data-animate="bounceIn" data-delay="400">
+                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/3.jpg" data-lightbox="gallery-item">
                                     <img src="<?php echo cdn_assets();?>assets/images/portfolio/4/3.jpg" alt="Gallery Image">
                                     <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
                                 </a>
-                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/4.jpg" data-lightbox="gallery-item" data-animate="bounceIn" data-delay="600">
+                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/4.jpg" data-lightbox="gallery-item">
                                     <img src="<?php echo cdn_assets();?>assets/images/portfolio/4/4.jpg" alt="Gallery Image">
                                     <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
                                 </a>
