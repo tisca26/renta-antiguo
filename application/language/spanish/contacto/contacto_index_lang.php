@@ -10,11 +10,7 @@ $lang['contacto_page_title'] = 'Contacto';
 $lang['contacto_page_title_sub'] = 'Somos tu mejor opción.';
 
 $lang['contacto_sucursales_titulo_2'] = 'Explora';
-$lang['contacto_sucursales_contacto'] = 'Contactanos';
-
-$lang['contacto_otros_1'] = 'Oficinas Virtuales';
-$lang['contacto_otros_2'] = 'Oficinas Amuebladas';
-$lang['contacto_otros_3'] = 'Recorrido 360°';
+$lang['contacto_sucursales_contacto'] = 'Contactanos';;
 
 $lang['contacto_form_title'] = 'Ponte en contacto con nosotros';
 $lang['contacto_form_nombre'] = 'Nombre';

@@ -17,75 +17,6 @@ class Contacto extends CI_Controller
         $this->load->view('contacto/contacto_index', $data);
     }
 
-    public function envio_satisfactorio()
-    {
-        $this->config->set_item('compress_output', true);
-        $this->cargar_idioma->carga_lang('contacto/contacto_envio_satisfactorio');
-        $data = array();
-        $this->load->view('contacto/contacto_envio_satisfactorio', $data);
-    }
-
-    public function suscribirse()
-    {
-        $this->config->set_item('compress_output', false);
-        $this->cargar_idioma->carga_lang('contacto/contacto_suscribirse');
-        $apiKey = '53a6c6b6c1ac3fca3b4ea39b8ce7b887-us14'; // Your MailChimp API Key
-        $listId = 'b009228175'; // Your MailChimp List ID
-
-        if (isset($_GET['list']) AND $_GET['list'] != '') {
-            $listId = $_GET['list'];
-        }
-
-        $email = $this->input->post('widget-subscribe-form-email');
-        $fname = $this->input->post('widget-subscribe-form-fname');
-        $lname = $this->input->post('widget-subscribe-form-lname');
-        $datacenter = explode('-', $apiKey);
-        $submit_url = "https://" . $datacenter[1] . ".api.mailchimp.com/3.0/lists/" . $listId . "/members/";
-
-        if (isset($email) AND $email != '') {
-
-            $merge_vars = array();
-            if ($fname != '') {
-                $merge_vars['FNAME'] = $fname;
-            }
-            if ($lname != '') {
-                $merge_vars['LNAME'] = $lname;
-            }
-            $data = array(
-                'email_address' => $email,
-                'status' => 'subscribed'
-            );
-            if (!empty($merge_vars)) {
-                $data['merge_fields'] = $merge_vars;
-            }
-            $payload = json_encode($data);
-            $auth = base64_encode('user:' . $apiKey);
-            $header = array();
-            $header[] = 'Content-type: application/json; charset=utf-8';
-            $header[] = 'Authorization: Basic ' . $auth;
-
-            $ch = curl_init();
-            curl_setopt($ch, CURLOPT_URL, $submit_url);
-            curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
-            curl_setopt($ch, CURLOPT_TIMEOUT, 10);
-            curl_setopt($ch, CURLOPT_POST, true);
-            curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-            curl_setopt($ch, CURLOPT_POSTFIELDS, $payload);
-            curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-
-            $result = curl_exec($ch);
-            curl_close($ch);
-            $data = json_decode($result);
-
-            if (isset($data->status) AND $data->status == 'subscribed') {
-                set_bootstrap_alert(trans_line('suscribirse_exito'), BOOTSTRAP_ALERT_SUCCESS);
-            } else {
-                set_bootstrap_alert($data->title, BOOTSTRAP_ALERT_DANGER);
-            }
-        }
-        redirect('contacto');
-    }
-
     public function enviar_correo()
     {
         $this->cargar_idioma->carga_lang('contacto/contacto_index');
@@ -106,9 +37,9 @@ class Contacto extends CI_Controller
             $this->_enviar_correo_a_ventas($receptor_nombre, $receptor_mail, $receptor_telefono, $receptor_asunto, $receptor_mensaje);
 
             set_bootstrap_alert(trans_line('contacto_exito'), BOOTSTRAP_ALERT_SUCCESS);
-            $this->cargar_idioma->carga_lang('contacto/contacto_envio_satisfactorio');
+            $this->cargar_idioma->carga_lang('contacto/contacto_index');
             $data = array();
-            $this->load->view('contacto/contacto_envio_satisfactorio', $data);
+            $this->load->view('contacto/contacto_index', $data);
         }
     }
 
