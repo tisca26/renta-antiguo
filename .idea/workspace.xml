@@ -2,98 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa1e6e92-2fe9-4493-9c17-21db2dadf11a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/portfolio/dodge-club-coupe-1946-portfolio-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/portfolio/dodge-club-coupe-1946-portfolio-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/portfolio/dodge-club-coupe-1946-portfolio-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/portfolio/dodge-club-coupe-1946-portfolio-4.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/magazine/thumb/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/bgpattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/blur1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/blur2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/home/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/home/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/home/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/home/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/home/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/home/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/home/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/home/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/home/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/parallax/parallax-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/12-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/4-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/6-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/6-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/6-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/9-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/9-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/12-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/4-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/6-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/6-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/6-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/9-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/9-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/portfolio/4/mixed/9.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-1.jpg" afterPath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-2.jpg" afterPath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-3.jpg" afterPath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-4.jpg" afterPath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-5.jpg" afterPath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-6.jpg" afterPath="$PROJECT_DIR$/assets/images/slider/dodge-club-coupe-1946-slider-6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/inicio/inicio_index.php" afterPath="$PROJECT_DIR$/application/views/inicio/inicio_index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/servicio/servicio_index.php" afterPath="$PROJECT_DIR$/application/views/servicio/servicio_index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php" afterPath="$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php" afterPath="$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php" afterPath="$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -108,7 +19,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="inicio_index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="inicio_index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/inicio/inicio_index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -118,6 +29,16 @@
                 <marker date="1483996584768" expanded="true" signature="18441:18502" ph="..." />
                 <marker date="1483996584768" expanded="true" signature="18566:18638" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inicio_index_lang.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -142,6 +63,36 @@
               <folding>
                 <marker date="1483968482195" expanded="true" signature="3638:3791" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu_uno_lang.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servicio_index_lang.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer_uno_lang.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/language/spanish/footers/footer_uno_lang.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -183,15 +134,12 @@
         <option value="$PROJECT_DIR$/application/logs/log-2017-01-08.php" />
         <option value="$PROJECT_DIR$/application/core/MY_Lang.php" />
         <option value="$PROJECT_DIR$/application/core/MY_Lang.php" />
-        <option value="$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php" />
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/application/config/config.php" />
         <option value="$PROJECT_DIR$/application/language/spanish/footers/footer_uno_lang.php" />
         <option value="$PROJECT_DIR$/application/views/footers/footer_uno.php" />
         <option value="$PROJECT_DIR$/assets/css/colors.php" />
         <option value="$PROJECT_DIR$/application/controllers/Servicio.php" />
-        <option value="$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php" />
-        <option value="$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php" />
         <option value="$PROJECT_DIR$/application/views/menus/menu_uno.php" />
         <option value="$PROJECT_DIR$/application/config/constants.php" />
         <option value="$PROJECT_DIR$/application/config/constants.php" />
@@ -199,6 +147,9 @@
         <option value="$PROJECT_DIR$/application/views/contacto/contacto_index.php" />
         <option value="$PROJECT_DIR$/application/views/servicio/servicio_index.php" />
         <option value="$PROJECT_DIR$/application/views/inicio/inicio_index.php" />
+        <option value="$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php" />
+        <option value="$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php" />
+        <option value="$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php" />
       </list>
     </option>
   </component>
@@ -800,7 +751,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47819000" />
+    <option name="totallyTimeSpent" value="48099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -975,6 +926,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1004,6 +956,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,13 +975,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/footers/footer_uno_lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/footers/footer_uno.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1044,13 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1081,20 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -1128,6 +1053,38 @@
             <marker date="1483996584768" expanded="true" signature="18441:18502" ph="..." />
             <marker date="1483996584768" expanded="true" signature="18566:18638" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/footers/footer_uno_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
