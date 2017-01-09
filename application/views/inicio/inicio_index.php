@@ -80,20 +80,20 @@
                         </div>
                         <div class="col_full">
                             <div class="masonry-thumbs clearfix" data-lightbox="gallery">
-                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/1.jpg" data-lightbox="gallery-item">
-                                    <img src="<?php echo cdn_assets();?>assets/images/portfolio/4/1.jpg" alt="Gallery Image">
+                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-1.jpg" data-lightbox="gallery-item">
+                                    <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-1-thumbnail.jpg" alt="Gallery Image">
                                     <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
                                 </a>
-                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/2.jpg" data-lightbox="gallery-item">
-                                    <img src="<?php echo cdn_assets();?>assets/images/portfolio/4/2.jpg" alt="Gallery Image">
+                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-2.jpg" data-lightbox="gallery-item">
+                                    <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-2-thumbnail.jpg" alt="Gallery Image">
                                     <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
                                 </a>
-                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/3.jpg" data-lightbox="gallery-item">
-                                    <img src="<?php echo cdn_assets();?>assets/images/portfolio/4/3.jpg" alt="Gallery Image">
+                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-3.jpg" data-lightbox="gallery-item">
+                                    <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-3-thumbnail.jpg" alt="Gallery Image">
                                     <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
                                 </a>
-                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/4/4.jpg" data-lightbox="gallery-item">
-                                    <img src="<?php echo cdn_assets();?>assets/images/portfolio/4/4.jpg" alt="Gallery Image">
+                                <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-4.jpg" data-lightbox="gallery-item">
+                                    <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-4-thumbnail.jpg" alt="Gallery Image">
                                     <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
                                 </a>
                             </div>
@@ -126,86 +126,66 @@
                         <div class="row">
                             <div class="col-md-8 ">
                                 <div class="col_full">
-                                    <div class="fslider flex-thumb-grid grid-6" data-animation="fade" data-arrows="true" data-thumbs="true">
+                                    <div class="fslider flex-thumb-grid grid-8" data-animation="fade" data-arrows="true" data-thumbs="true">
                                         <div class="flexslider">
                                             <div class="slider-wrap">
-                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/magazine/thumb/1.jpg">
-                                                    <a href="#">
-                                                        <img src="<?php echo cdn_assets();?>assets/images/magazine/1.jpg" alt="">
-                                                        <div class="overlay">
-                                                            <div class="text-overlay">
-                                                                <div class="text-overlay-title">
-                                                                    <h3>Imagen de Prueba</h3>
-                                                                </div>
-                                                                <div class="text-overlay-meta">
-                                                                    <span>Prueba</span>
-                                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-1-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-1.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Dodge Club Coupe 1947</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Auto clásico</span>
                                                             </div>
                                                         </div>
-                                                    </a>
+                                                    </div>
                                                 </div>
-                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/magazine/thumb/2.jpg">
-                                                    <a href="#">
-                                                        <img src="<?php echo cdn_assets();?>assets/images/magazine/2.jpg" alt="">
-                                                        <div class="overlay">
-                                                            <div class="text-overlay">
-                                                                <div class="text-overlay-title">
-                                                                    <h3>Titulo de prueba</h3>
-                                                                </div>
-                                                                <div class="text-overlay-meta">
-                                                                    <span><i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i> <i class="icon-star-empty"></i></span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-2-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-2.jpg" alt="">
                                                 </div>
-                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/magazine/thumb/3.jpg">
-                                                    <a href="#">
-                                                        <img src="<?php echo cdn_assets();?>assets/images/magazine/3.jpg" alt="">
-                                                        <div class="overlay">
-                                                            <div class="text-overlay">
-                                                                <div class="text-overlay-title">
-                                                                    <h3>Imagen de Prueba</h3>
-                                                                </div>
-                                                                <div class="text-overlay-meta">
-                                                                    <span>Prueba</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-3-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-3.jpg" alt="">
                                                 </div>
-                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/magazine/thumb/4.jpg">
-                                                    <iframe src="http://player.vimeo.com/video/99895335" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-4-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-4.jpg" alt="">
                                                 </div>
-                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/magazine/thumb/5.jpg">
-                                                    <a href="#">
-                                                        <img src="<?php echo cdn_assets();?>assets/images/magazine/5.jpg" alt="">
-                                                        <div class="overlay">
-                                                            <div class="text-overlay">
-                                                                <div class="text-overlay-title">
-                                                                    <h3>Imagen de Prueba</h3>
-                                                                </div>
-                                                                <div class="text-overlay-meta">
-                                                                    <span><i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star3"></i> <i class="icon-star-half-full"></i> <i class="icon-star-empty"></i></span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-5-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-5.jpg" alt="">
                                                 </div>
-                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/magazine/thumb/6.jpg">
-                                                    <a href="#">
-                                                        <img src="<?php echo cdn_assets();?>assets/images/magazine/6.jpg" alt="">
-                                                        <div class="overlay">
-                                                            <div class="text-overlay">
-                                                                <div class="text-overlay-title">
-                                                                    <h3>Imagen de Prueba</h3>
-                                                                </div>
-                                                                <div class="text-overlay-meta">
-                                                                    <span>Prueba</span>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-6-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-6.jpg" alt="">
+                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-7-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-7.jpg" alt="">
+                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-9-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-9.jpg" alt="">
+                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-10-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-10.jpg" alt="">
+                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-11-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-11.jpg" alt="">
+                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-12-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-12.jpg" alt="">
+                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-13-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-13.jpg" alt="">
+                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-14-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-14.jpg" alt="">
+                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-15-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-15.jpg" alt="">
+                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-16-thumbnail.jpg">
+                                                    <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-16.jpg" alt="">
+                                                </div>
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-1-thumbnail.jpg">
+                                                    <iframe src="https://www.youtube.com/embed/J0Rmd1F2_hU" width="750" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                                                 </div>
                                             </div>
                                         </div>
