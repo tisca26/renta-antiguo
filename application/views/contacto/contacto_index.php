@@ -98,7 +98,7 @@
                         <div class="clear"></div>
 
                         <div class="col_one_third">
-                            <label for="contactform-evento">Evento
+                            <label for="contactform-evento" style="display:block; margin-bottom: 14px;">Evento
                                 <small>*</small>
                             </label>
                             <select class="selectpicker" id="evento" name="evento">

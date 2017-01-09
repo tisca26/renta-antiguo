@@ -5909,3 +5909,201 @@ INFO - 2017-01-09 14:17:22 --> File loaded: C:\xampp\htdocs\proyectos\renta-anti
 INFO - 2017-01-09 14:17:22 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\inicio/inicio_index.php
 INFO - 2017-01-09 14:17:22 --> Final output sent to browser
 DEBUG - 2017-01-09 14:17:22 --> Total execution time: 1.9907
+INFO - 2017-01-09 14:26:06 --> Config Class Initialized
+INFO - 2017-01-09 14:26:06 --> Hooks Class Initialized
+DEBUG - 2017-01-09 14:26:06 --> UTF-8 Support Enabled
+INFO - 2017-01-09 14:26:06 --> Utf8 Class Initialized
+INFO - 2017-01-09 14:26:06 --> URI Class Initialized
+INFO - 2017-01-09 14:26:06 --> Router Class Initialized
+INFO - 2017-01-09 14:26:06 --> Output Class Initialized
+INFO - 2017-01-09 14:26:06 --> Security Class Initialized
+DEBUG - 2017-01-09 14:26:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-09 14:26:06 --> CSRF cookie sent
+INFO - 2017-01-09 14:26:06 --> Input Class Initialized
+DEBUG - 2017-01-09 14:26:07 --> --------------------- no $lang_ignore ---------------------
+DEBUG - 2017-01-09 14:26:07 --> Language_Identifier Class Initialized
+INFO - 2017-01-09 14:26:07 --> Loader Class Initialized
+DEBUG - 2017-01-09 14:26:07 --> Config file loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\config/template.php
+INFO - 2017-01-09 14:26:07 --> Helper loaded: language_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: url_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: html_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: form_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: cookie_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: uri_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: site_template_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: alert_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: util_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: session_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: date_helper
+INFO - 2017-01-09 14:26:07 --> Helper loaded: menu_helper
+INFO - 2017-01-09 14:26:07 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-09 14:26:07 --> Encrypt Class Initialized
+INFO - 2017-01-09 14:26:08 --> Controller Class Initialized
+INFO - 2017-01-09 14:26:08 --> Language file loaded: language/spanish/servicio/servicio_index_lang.php
+INFO - 2017-01-09 14:26:08 --> Language file loaded: language/spanish/menus/menu_uno_lang.php
+INFO - 2017-01-09 14:26:08 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\menus/menu_uno.php
+INFO - 2017-01-09 14:26:08 --> Language file loaded: language/spanish/footers/footer_uno_lang.php
+INFO - 2017-01-09 14:26:08 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\footers/footer_uno.php
+INFO - 2017-01-09 14:26:08 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\servicio/servicio_index.php
+INFO - 2017-01-09 14:26:08 --> Final output sent to browser
+DEBUG - 2017-01-09 14:26:08 --> Total execution time: 1.9647
+INFO - 2017-01-09 14:26:41 --> Config Class Initialized
+INFO - 2017-01-09 14:26:41 --> Hooks Class Initialized
+DEBUG - 2017-01-09 14:26:41 --> UTF-8 Support Enabled
+INFO - 2017-01-09 14:26:41 --> Utf8 Class Initialized
+INFO - 2017-01-09 14:26:42 --> URI Class Initialized
+INFO - 2017-01-09 14:26:42 --> Router Class Initialized
+INFO - 2017-01-09 14:26:42 --> Output Class Initialized
+INFO - 2017-01-09 14:26:42 --> Security Class Initialized
+DEBUG - 2017-01-09 14:26:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-09 14:26:42 --> CSRF cookie sent
+INFO - 2017-01-09 14:26:42 --> Input Class Initialized
+DEBUG - 2017-01-09 14:26:42 --> --------------------- no $lang_ignore ---------------------
+DEBUG - 2017-01-09 14:26:42 --> Language_Identifier Class Initialized
+INFO - 2017-01-09 14:26:42 --> Loader Class Initialized
+DEBUG - 2017-01-09 14:26:42 --> Config file loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\config/template.php
+INFO - 2017-01-09 14:26:42 --> Helper loaded: language_helper
+INFO - 2017-01-09 14:26:42 --> Helper loaded: url_helper
+INFO - 2017-01-09 14:26:42 --> Helper loaded: html_helper
+INFO - 2017-01-09 14:26:42 --> Helper loaded: form_helper
+INFO - 2017-01-09 14:26:42 --> Helper loaded: cookie_helper
+INFO - 2017-01-09 14:26:42 --> Helper loaded: uri_helper
+INFO - 2017-01-09 14:26:42 --> Helper loaded: site_template_helper
+INFO - 2017-01-09 14:26:43 --> Helper loaded: alert_helper
+INFO - 2017-01-09 14:26:43 --> Helper loaded: util_helper
+INFO - 2017-01-09 14:26:43 --> Helper loaded: session_helper
+INFO - 2017-01-09 14:26:43 --> Helper loaded: date_helper
+INFO - 2017-01-09 14:26:43 --> Helper loaded: menu_helper
+INFO - 2017-01-09 14:26:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-09 14:26:43 --> Encrypt Class Initialized
+INFO - 2017-01-09 14:26:43 --> Controller Class Initialized
+INFO - 2017-01-09 14:26:43 --> Form Validation Class Initialized
+INFO - 2017-01-09 14:26:43 --> Language file loaded: language/spanish/contacto/contacto_index_lang.php
+INFO - 2017-01-09 14:26:43 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\elementos_extras/head_first.php
+INFO - 2017-01-09 14:26:43 --> Language file loaded: language/spanish/menus/menu_uno_lang.php
+INFO - 2017-01-09 14:26:43 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\menus/menu_uno.php
+INFO - 2017-01-09 14:26:43 --> Language file loaded: language/spanish/footers/footer_uno_lang.php
+INFO - 2017-01-09 14:26:43 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\footers/footer_uno.php
+INFO - 2017-01-09 14:26:43 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\contacto/contacto_index.php
+INFO - 2017-01-09 14:26:43 --> Final output sent to browser
+DEBUG - 2017-01-09 14:26:43 --> Total execution time: 2.1334
+INFO - 2017-01-09 14:27:44 --> Config Class Initialized
+INFO - 2017-01-09 14:27:44 --> Hooks Class Initialized
+DEBUG - 2017-01-09 14:27:44 --> UTF-8 Support Enabled
+INFO - 2017-01-09 14:27:44 --> Utf8 Class Initialized
+INFO - 2017-01-09 14:27:44 --> URI Class Initialized
+INFO - 2017-01-09 14:27:44 --> Router Class Initialized
+INFO - 2017-01-09 14:27:44 --> Output Class Initialized
+INFO - 2017-01-09 14:27:44 --> Security Class Initialized
+DEBUG - 2017-01-09 14:27:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-09 14:27:45 --> CSRF cookie sent
+INFO - 2017-01-09 14:27:45 --> Input Class Initialized
+DEBUG - 2017-01-09 14:27:45 --> --------------------- no $lang_ignore ---------------------
+DEBUG - 2017-01-09 14:27:45 --> Language_Identifier Class Initialized
+INFO - 2017-01-09 14:27:45 --> Loader Class Initialized
+DEBUG - 2017-01-09 14:27:45 --> Config file loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\config/template.php
+INFO - 2017-01-09 14:27:45 --> Helper loaded: language_helper
+INFO - 2017-01-09 14:27:45 --> Helper loaded: url_helper
+INFO - 2017-01-09 14:27:45 --> Helper loaded: html_helper
+INFO - 2017-01-09 14:27:45 --> Helper loaded: form_helper
+INFO - 2017-01-09 14:27:45 --> Helper loaded: cookie_helper
+INFO - 2017-01-09 14:27:45 --> Helper loaded: uri_helper
+INFO - 2017-01-09 14:27:45 --> Helper loaded: site_template_helper
+INFO - 2017-01-09 14:27:45 --> Helper loaded: alert_helper
+INFO - 2017-01-09 14:27:45 --> Helper loaded: util_helper
+INFO - 2017-01-09 14:27:45 --> Helper loaded: session_helper
+INFO - 2017-01-09 14:27:45 --> Helper loaded: date_helper
+INFO - 2017-01-09 14:27:46 --> Helper loaded: menu_helper
+INFO - 2017-01-09 14:27:46 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-09 14:27:46 --> Encrypt Class Initialized
+INFO - 2017-01-09 14:27:46 --> Controller Class Initialized
+INFO - 2017-01-09 14:27:46 --> Form Validation Class Initialized
+INFO - 2017-01-09 14:27:46 --> Language file loaded: language/spanish/contacto/contacto_index_lang.php
+INFO - 2017-01-09 14:27:46 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\elementos_extras/head_first.php
+INFO - 2017-01-09 14:27:46 --> Language file loaded: language/spanish/menus/menu_uno_lang.php
+INFO - 2017-01-09 14:27:46 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\menus/menu_uno.php
+INFO - 2017-01-09 14:27:46 --> Language file loaded: language/spanish/footers/footer_uno_lang.php
+INFO - 2017-01-09 14:27:46 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\footers/footer_uno.php
+INFO - 2017-01-09 14:27:46 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\contacto/contacto_index.php
+INFO - 2017-01-09 14:27:46 --> Final output sent to browser
+DEBUG - 2017-01-09 14:27:46 --> Total execution time: 2.2463
+INFO - 2017-01-09 14:28:03 --> Config Class Initialized
+INFO - 2017-01-09 14:28:03 --> Hooks Class Initialized
+DEBUG - 2017-01-09 14:28:03 --> UTF-8 Support Enabled
+INFO - 2017-01-09 14:28:03 --> Utf8 Class Initialized
+INFO - 2017-01-09 14:28:03 --> URI Class Initialized
+INFO - 2017-01-09 14:28:03 --> Router Class Initialized
+INFO - 2017-01-09 14:28:03 --> Output Class Initialized
+INFO - 2017-01-09 14:28:03 --> Security Class Initialized
+DEBUG - 2017-01-09 14:28:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-09 14:28:04 --> CSRF cookie sent
+INFO - 2017-01-09 14:28:04 --> Input Class Initialized
+DEBUG - 2017-01-09 14:28:04 --> --------------------- no $lang_ignore ---------------------
+DEBUG - 2017-01-09 14:28:04 --> Language_Identifier Class Initialized
+INFO - 2017-01-09 14:28:04 --> Loader Class Initialized
+DEBUG - 2017-01-09 14:28:04 --> Config file loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\config/template.php
+INFO - 2017-01-09 14:28:04 --> Helper loaded: language_helper
+INFO - 2017-01-09 14:28:04 --> Helper loaded: url_helper
+INFO - 2017-01-09 14:28:04 --> Helper loaded: html_helper
+INFO - 2017-01-09 14:28:04 --> Helper loaded: form_helper
+INFO - 2017-01-09 14:28:04 --> Helper loaded: cookie_helper
+INFO - 2017-01-09 14:28:04 --> Helper loaded: uri_helper
+INFO - 2017-01-09 14:28:04 --> Helper loaded: site_template_helper
+INFO - 2017-01-09 14:28:04 --> Helper loaded: alert_helper
+INFO - 2017-01-09 14:28:04 --> Helper loaded: util_helper
+INFO - 2017-01-09 14:28:04 --> Helper loaded: session_helper
+INFO - 2017-01-09 14:28:05 --> Helper loaded: date_helper
+INFO - 2017-01-09 14:28:05 --> Helper loaded: menu_helper
+INFO - 2017-01-09 14:28:05 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-09 14:28:05 --> Encrypt Class Initialized
+INFO - 2017-01-09 14:28:05 --> Controller Class Initialized
+INFO - 2017-01-09 14:28:05 --> Form Validation Class Initialized
+INFO - 2017-01-09 14:28:05 --> Language file loaded: language/spanish/contacto/contacto_index_lang.php
+INFO - 2017-01-09 14:28:05 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\elementos_extras/head_first.php
+INFO - 2017-01-09 14:28:05 --> Language file loaded: language/spanish/menus/menu_uno_lang.php
+INFO - 2017-01-09 14:28:05 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\menus/menu_uno.php
+INFO - 2017-01-09 14:28:05 --> Language file loaded: language/spanish/footers/footer_uno_lang.php
+INFO - 2017-01-09 14:28:05 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\footers/footer_uno.php
+INFO - 2017-01-09 14:28:05 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\contacto/contacto_index.php
+INFO - 2017-01-09 14:28:05 --> Final output sent to browser
+DEBUG - 2017-01-09 14:28:05 --> Total execution time: 2.2900
+INFO - 2017-01-09 14:29:46 --> Config Class Initialized
+INFO - 2017-01-09 14:29:46 --> Hooks Class Initialized
+DEBUG - 2017-01-09 14:29:46 --> UTF-8 Support Enabled
+INFO - 2017-01-09 14:29:46 --> Utf8 Class Initialized
+INFO - 2017-01-09 14:29:46 --> URI Class Initialized
+INFO - 2017-01-09 14:29:46 --> Router Class Initialized
+INFO - 2017-01-09 14:29:46 --> Output Class Initialized
+INFO - 2017-01-09 14:29:46 --> Security Class Initialized
+DEBUG - 2017-01-09 14:29:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-01-09 14:29:46 --> CSRF cookie sent
+INFO - 2017-01-09 14:29:46 --> Input Class Initialized
+DEBUG - 2017-01-09 14:29:46 --> --------------------- no $lang_ignore ---------------------
+DEBUG - 2017-01-09 14:29:46 --> Language_Identifier Class Initialized
+INFO - 2017-01-09 14:29:46 --> Loader Class Initialized
+DEBUG - 2017-01-09 14:29:46 --> Config file loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\config/template.php
+INFO - 2017-01-09 14:29:47 --> Helper loaded: language_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: url_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: html_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: form_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: cookie_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: uri_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: site_template_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: alert_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: util_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: session_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: date_helper
+INFO - 2017-01-09 14:29:47 --> Helper loaded: menu_helper
+INFO - 2017-01-09 14:29:47 --> Session: Class initialized using 'files' driver.
+INFO - 2017-01-09 14:29:47 --> Encrypt Class Initialized
+INFO - 2017-01-09 14:29:47 --> Controller Class Initialized
+INFO - 2017-01-09 14:29:47 --> Form Validation Class Initialized
+INFO - 2017-01-09 14:29:47 --> Language file loaded: language/spanish/contacto/contacto_index_lang.php
+INFO - 2017-01-09 14:29:48 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\elementos_extras/head_first.php
+INFO - 2017-01-09 14:29:48 --> Language file loaded: language/spanish/menus/menu_uno_lang.php
+INFO - 2017-01-09 14:29:48 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\menus/menu_uno.php
+INFO - 2017-01-09 14:29:48 --> Language file loaded: language/spanish/footers/footer_uno_lang.php
+INFO - 2017-01-09 14:29:48 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\footers/footer_uno.php
+INFO - 2017-01-09 14:29:48 --> File loaded: C:\xampp\htdocs\proyectos\renta-antiguo\application\views\contacto/contacto_index.php
+INFO - 2017-01-09 14:29:48 --> Final output sent to browser
+DEBUG - 2017-01-09 14:29:48 --> Total execution time: 2.1590
