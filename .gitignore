@@ -69,7 +69,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 # IDE Files
 #-------------------------
 /nbproject/
-.idea/*
+.idea
 
 ## Sublime Text cache files
 *.tmlanguage.cache
@@ -77,6 +77,5 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.stTheme.cache
 *.sublime-workspace
 *.sublime-project
-.idea/workspace.xml
 *.xml
-.idea/workspace.xml
+

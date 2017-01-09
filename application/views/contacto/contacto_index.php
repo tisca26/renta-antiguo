@@ -101,15 +101,7 @@
                             <label for="contactform-evento" style="display:block; margin-bottom: 14px;">Evento
                                 <small>*</small>
                             </label>
-                            <select class="selectpicker" id="evento" name="evento">
-                                <option>XV Años</option>
-                                <option>Boda</option>
-                                <option>Graduación</option>
-                                <option>Aniversario</option>
-                                <option>Televisión</option>
-                                <option>Película</option>
-                                <option>Otro</option>
-                            </select>
+                            <?php echo form_dropdown('evento', $eventos, '', 'class="selectpicker" id="evento"'); ?>
                         </div>
 
                         <div class="col_one_third travel-date-group">

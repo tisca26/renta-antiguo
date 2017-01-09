@@ -14,6 +14,7 @@ class Contacto extends CI_Controller
     {
         $this->cargar_idioma->carga_lang('contacto/contacto_index');
         $data = array();
+        $data['eventos'] = $this->_genera_eventos_sel();
         $this->load->view('contacto/contacto_index', $data);
     }
 
@@ -25,6 +26,7 @@ class Contacto extends CI_Controller
         $this->form_validation->set_rules('telefono', trans_line('contacto_form_telefono'), 'required|trim|min_length[7]|numeric');
         $this->form_validation->set_rules('asunto', trans_line('contacto_form_asunto'), 'required|trim|min_length[3]');
         $this->form_validation->set_rules('mensaje', trans_line('contacto_form_mensaje'), 'required|trim|min_length[3]');
+        $this->form_validation->set_rules('evento', trans_line('contacto_evento'), 'required');
         if ($this->form_validation->run() == FALSE) {
             $this->index();
         } else {
@@ -33,6 +35,7 @@ class Contacto extends CI_Controller
             $receptor_telefono = $this->input->post('telefono');
             $receptor_asunto = $this->input->post('asunto');
             $receptor_mensaje = $this->input->post('mensaje');
+            $evento = $this->input->post('evento');
             $this->_enviar_correo_a_prospecto($receptor_nombre, $receptor_mail);
             $this->_enviar_correo_a_ventas($receptor_nombre, $receptor_mail, $receptor_telefono, $receptor_asunto, $receptor_mensaje);
 
@@ -54,20 +57,20 @@ class Contacto extends CI_Controller
             )
         );
         $mail->isSMTP();
-        $mail->Host = 'mail.oficinas-virtuales-amuebladas.com';
+        $mail->Host = 'kin.hosting-mexico.net';
         $mail->SMTPAuth = true;
         $mail->SMTPDebug = 0;
         $mail->SMTPKeepAlive = true; // SMTP connection will not close after each email sent, reduces SMTP overhead
         $mail->SMTPAuth = true;
         $mail->SMTPSecure = 'ssl';
-        $mail->Username = 'soporte@oficinas-virtuales-amuebladas.com';                 // SMTP username
-        $mail->Password = 'Sopor3_123!';
+        $mail->Username = 'contacto@renta-antiguo.com';                 // SMTP username
+        $mail->Password = 'Contacto123!';
         $mail->Port = 465;
         $mail->AltBody = 'Para mostrar el mensaje correctamente, por favor, use un visor de email compatible con HTML, ¡gracias!';
         $mail->CharSet = 'UTF-8';
         $mail->ContentType = 'text/html; charset=utf-8\r\n';
         $mail->isHTML(true);
-        $mail->setFrom('soporte@oficinas-virtuales-amuebladas.com', 'Soporte - Nuevo prospecto para OVA');
+        $mail->setFrom('contacto@renta-antiguo.com', 'Contacto Renta Antiguo');
         $mail->Subject = "Nuevo prospecto OVA";
         $mail->addAddress('contacto@oficinas-virtuales-amuebladas.com', 'Contacto OVA');
 
@@ -135,5 +138,17 @@ class Contacto extends CI_Controller
             log_message('ERROR', '--------- Error envio correo ---------' . $mail->ErrorInfo);
             return FALSE;
         }
+    }
+
+    private function _genera_eventos_sel()
+    {
+        $data['XV Años'] = 'XV Años';
+        $data['Boda'] = 'Boda';
+        $data['Graduación'] = 'Graduación';
+        $data['Aniversario'] = 'Aniversario';
+        $data['Televisión'] = 'Televisión';
+        $data['Película'] = 'Película';
+        $data['Otro'] = 'Otro';
+        return $data;
     }
 }
