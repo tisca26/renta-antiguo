@@ -14,7 +14,7 @@ $lang['inicio_slider_2_sub'] = 'Navega por nuestro nuevo sitio web.';
 $lang['inicio_slider_3_titulo'] = 'La experiencia nos respalda';
 $lang['inicio_slider_3_sub'] = 'En OVA hacemos crecer tu negocio.';
 
-$lang['inicio_contacto_mobile'] = 'Contactanos';
+$lang['inicio_contacto_mobile'] = 'Contáctanos';
 
 $lang['inicio_servicios_titulo'] = 'Servicios';
 $lang['inicio_servicios_virtual_titulo'] = 'Oficinas Virtuales';
