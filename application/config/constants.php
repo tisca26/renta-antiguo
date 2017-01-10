@@ -95,17 +95,16 @@ defined('BOOTSTRAP_ALERT_DANGER')   OR define('BOOTSTRAP_ALERT_DANGER', 'danger'
 /*
  * Redes sociales
  */
-defined('FACEBOOK')             OR define('FACEBOOK', 'https://www.facebook.com/');
-defined('TWITTER')              OR define('TWITTER', 'https://twitter.com/');
-defined('GOOGLE_PLUS')          OR define('GOOGLE_PLUS', 'https://plus.google.com/');
+defined('FACEBOOK')             OR define('FACEBOOK', 'https://www.facebook.com/mauricio.galancardenas');
+defined('TWITTER')              OR define('TWITTER', 'https://twitter.com/@GalnMauricio');
 
 /*
  * Elementos Renta Antiguo
  */
 defined('RA')                       OR define('RA','Renta Antiguo');
-defined('TEL_VENTAS')               OR define('TEL_VENTAS', '55-6685-0082');
-defined('MAIL_VENTAS')              OR define('MAIL_VENTAS', 'rentantiguo@hotmail.com');
-defined('PRECIO')                   OR define('PRECIO', '599');
+defined('TEL_VENTAS')               OR define('TEL_VENTAS', '55-3435-0501');
+defined('MAIL_VENTAS')              OR define('MAIL_VENTAS', 'contacto@renta-antiguo.com');
+defined('PRECIO')                   OR define('PRECIO', '3,900.00');
 
 /*
  * Elementos Icognitis

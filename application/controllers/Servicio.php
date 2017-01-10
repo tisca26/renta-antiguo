@@ -11,7 +11,6 @@ class Servicio extends CI_Controller
 
     public function index()
     {
-        $this->cargar_idioma->carga_lang('servicio/servicio_index');
         $data = array();
         $this->load->view('servicio/servicio_index', $data);
     }

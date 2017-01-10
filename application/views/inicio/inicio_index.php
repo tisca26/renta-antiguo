@@ -1,12 +1,12 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 <!DOCTYPE html>
-<html dir="ltr" lang="es-mx">
+<html dir="ltr" lang="es-MX">
 <head>
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="author" content="<?php echo ICOGNITIS_SACV;?>"/>
-    <meta name="description" content="<?php echo trans_line('metatag_desc'); ?>">
-    <meta name="keywords" content="<?php echo trans_line('metatag_keywords'); ?>">
+    <meta name="description" content="Alquila un auto clásico para tus eventos sociales a un precio especial. Dodge Club Coupe 1946.">
+    <meta name="keywords" content="Clásico, Auto, Recorrido, Evento, Social, Antiguo, Renta">
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
     <link rel="icon" href="<?php echo cdn_assets();?>assets/images/favicon.ico" type="image/x-icon">
@@ -30,7 +30,7 @@
 
     <!-- Document Title
     ============================================= -->
-    <title><?php echo trans_line('title_tag'); ?></title>
+    <title>Renta Antiguo - Inicio</title>
 
 </head>
 
@@ -59,7 +59,7 @@
             <div id="nivocaption1" class="nivo-html-caption">Servicio de 4 horas en un auto clásico de lujo</div>
             <div id="nivocaption2" class="nivo-html-caption">Interiores impecables</div>
             <div id="nivocaption3" class="nivo-html-caption">Una experiencia única</div>
-            <div id="nivocaption4" class="nivo-html-caption">Actor: Mauricio Galan</div>
+            <div id="nivocaption4" class="nivo-html-caption">Actor: Mauricio Galan Cárdenas</div>
             <div id="nivocaption5" class="nivo-html-caption">Certificado por el IPN</div>
             <div id="nivocaption6" class="nivo-html-caption">Sorprende a todo el mundo</div>
 
@@ -79,7 +79,7 @@
                             <span data-animate="fadeIn" data-delay="200">Ideal para cualquier evento social</span>
                         </div>
                         <div class="col_full">
-                            <div class="masonry-thumbs clearfix" data-lightbox="gallery">
+                            <div class="masonry-thumbs clearfix col-4" data-class-xs="col-2" data-class-xss="col-2" data-class-lg="col-4" data-class-sm="col-4" data-class-md="col-4" data-lightbox="gallery">
                                 <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-1.jpg" data-lightbox="gallery-item">
                                     <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-1-thumbnail.jpg" alt="Gallery Image">
                                     <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
@@ -150,6 +150,16 @@
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-4-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-4.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Mauricio Galan Cárdenas</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Actor</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-5-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-5.jpg" alt="">
@@ -159,6 +169,16 @@
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-7-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-7.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Interiores del auto</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Impecables</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-9-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-9.jpg" alt="">
@@ -197,7 +217,7 @@
                                     <div class="pricing pricing--sonam">
                                         <div class="pricing--item">
                                             <h3 class="pricing--title">Servicio</h3>
-                                            <div class="pricing--price"><span class="pricing--currency">$</span>3,900.00</div>
+                                            <div class="pricing--price"><span class="pricing--currency">$</span><?php echo PRECIO;?></div>
                                             <p class="pricing--sentence">Un recorrido único</p>
                                             <ul class="pricing--feature-list">
                                                 <li class="pricing--feature">Dodge Club Coupe <strong>1946</strong></li>
@@ -206,7 +226,7 @@
                                                 <li class="pricing--feature">Premio <strong>Record Guiness</strong></li>
                                                 <li class="pricing--feature">Certificado por el <strong>IPN</strong></li>
                                             </ul>
-                                            <a href="<?php echo base_url_lang();?>servicio" style="color:#FFF"><button class="pricing--action">Ver más</button></a>
+                                            <a href="<?php echo base_url();?>servicio" style="color:#FFF"><button class="pricing--action">Ver más</button></a>
                                         </div>
                                     </div>
                                 </div>
@@ -218,7 +238,7 @@
         </section><!-- #content end -->
 
         <!-- Footer -->
-        <?php $this->cargar_elementos_manager->carga_con_lang('footers/footer_uno'); ?>
+        <?php $this->cargar_elementos_manager->carga_simple('footers/footer_uno'); ?>
         <!-- /Footer -->
 
     </div><!-- #wrapper end -->
@@ -246,7 +266,7 @@
                 boxCols: 12,
                 boxRows: 6,
                 animSpeed: 500,
-                pauseTime: 8000,
+                pauseTime: 5000,
                 directionNav: true,
                 controlNav: true,
                 pauseOnHover: false,

@@ -1,12 +1,12 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 <!DOCTYPE html>
-<html dir="ltr" lang="es-mx">
+<html dir="ltr" lang="es-MX">
 <head>
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="author" content="<?php echo ICOGNITIS_SACV;?>"/>
-    <meta name="description" content="<?php echo trans_line('metatag_desc'); ?>">
-    <meta name="keywords" content="<?php echo trans_line('metatag_keywords'); ?>">
+    <meta name="description" content="Alquila un auto clásico para tus eventos sociales a un precio especial. Dodge Club Coupe 1946.">
+    <meta name="keywords" content="Clásico, Auto, Recorrido, Evento, Social, Antiguo, Renta">
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
     <link rel="icon" href="<?php echo cdn_assets();?>assets/images/favicon.ico" type="image/x-icon">
@@ -29,7 +29,7 @@
 
     <!-- Document Title
     ============================================= -->
-    <title><?php echo trans_line('title_tag'); ?></title>
+    <title>Renta Antiguo - Servicio</title>
 
 </head>
 
@@ -93,15 +93,15 @@
                         <div class="col_one_fourth col_last" data-animate="bounceIn" data-delay="400">
                             <div class="pricing pricing--sonam nomargin">
                                 <div class="pricing--item">
-                                    <div class="pricing--price"><span class="pricing--currency">$</span>3,900.00</div>
+                                    <div class="pricing--price"><span class="pricing--currency">$</span><?php echo PRECIO;?></div>
                                     <p class="pricing--sentence">Plan básico</p>
-                                    <a href="<?php echo base_url_lang();?>contacto" style="color:#FFF"><button class="pricing--action">Contactanos</button></a>
+                                    <a href="<?php echo base_url();?>contacto" style="color:#FFF"><button class="pricing--action">Contactanos</button></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col_full">
-                        <div class="masonry-thumbs clearfix" data-lightbox="gallery">
+                        <div class="masonry-thumbs clearfix col-4" data-class-xs="col-2" data-class-xss="col-2" data-class-lg="col-4" data-class-sm="col-4" data-class-md="col-4" data-lightbox="gallery">
                             <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-1.jpg" data-lightbox="gallery-item">
                                 <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-1-thumbnail.jpg" alt="Gallery Image">
                                 <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
@@ -126,7 +126,7 @@
         </section><!-- #content end -->
 
         <!-- Footer -->
-        <?php $this->cargar_elementos_manager->carga_con_lang('footers/footer_uno'); ?>
+        <?php $this->cargar_elementos_manager->carga_simple('footers/footer_uno'); ?>
         <!-- /Footer -->
 
     </div><!-- #wrapper end -->

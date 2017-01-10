@@ -13,8 +13,8 @@
             <div class="container clearfix">
 
                 <div class="col_half">
-                    <?php echo trans_line('footer_copyright');?><br>
-                    <div class="copyright-links"><a href="<?php echo ICOGNITIS_URL;?>"><?php echo trans_line('footer_desarrollador');?></a></div>
+                    Copyright © 2017 Todos los derechos reservados por <strong><?php echo ICOGNITIS_SACV;?></strong><br>
+                    <div class="copyright-links"><a href="<?php echo ICOGNITIS_URL;?>">Página del desarrollador</a></div>
                 </div>
 
                 <div class="col_half col_last tright">

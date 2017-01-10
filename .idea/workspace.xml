@@ -2,8 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa1e6e92-2fe9-4493-9c17-21db2dadf11a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/core/MY_Lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/english/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/calendar_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/contacto/contacto_index_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/date_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/db_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/email_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/footers/footer_uno_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/ftp_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/imglib_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/migration_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/number_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/pagination_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/profiler_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/unit_test_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/language/spanish/upload_lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/libraries/Cargar_idioma.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/autoload.php" afterPath="$PROJECT_DIR$/application/config/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/constants.php" afterPath="$PROJECT_DIR$/application/config/constants.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Contacto.php" afterPath="$PROJECT_DIR$/application/controllers/Contacto.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Inicio.php" afterPath="$PROJECT_DIR$/application/controllers/Inicio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Servicio.php" afterPath="$PROJECT_DIR$/application/controllers/Servicio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/Cargar_elementos_manager.php" afterPath="$PROJECT_DIR$/application/libraries/Cargar_elementos_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/libraries/Menu_manager.php" afterPath="$PROJECT_DIR$/application/libraries/Menu_manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/contacto/contacto_email_prospecto.php" afterPath="$PROJECT_DIR$/application/views/contacto/contacto_email_prospecto.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/contacto/contacto_email_ventas.php" afterPath="$PROJECT_DIR$/application/views/contacto/contacto_email_ventas.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/contacto/contacto_index.php" afterPath="$PROJECT_DIR$/application/views/contacto/contacto_index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/footers/footer_uno.php" afterPath="$PROJECT_DIR$/application/views/footers/footer_uno.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/inicio/inicio_index.php" afterPath="$PROJECT_DIR$/application/views/inicio/inicio_index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/menus/menu_uno.php" afterPath="$PROJECT_DIR$/application/views/menus/menu_uno.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/servicio/servicio_index.php" afterPath="$PROJECT_DIR$/application/views/servicio/servicio_index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +55,59 @@
       <file leaf-file-name="contacto_index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/contacto/contacto_index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="246" column="23" lean-forward="false" selection-start-line="246" selection-start-column="16" selection-end-line="246" selection-end-column="23" />
-              <folding>
-                <element signature="n#style#0;n#label#0;n#div#5;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="1668">
+              <caret line="255" column="21" lean-forward="false" selection-start-line="255" selection-start-column="21" selection-end-line="255" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu_uno.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/menus/menu_uno.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uri_helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/helpers/uri_helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="85" column="50" lean-forward="false" selection-start-line="85" selection-start-column="50" selection-end-line="85" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacto_email_ventas.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/contacto/contacto_email_ventas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacto_email_prospecto.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/contacto/contacto_email_prospecto.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -33,8 +115,38 @@
       <file leaf-file-name="Contacto.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/controllers/Contacto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="67" column="26" lean-forward="true" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+            <state relative-caret-position="-119">
+              <caret line="73" column="53" lean-forward="false" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form_validation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/libraries/Form_validation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="449" column="23" lean-forward="false" selection-start-line="449" selection-start-column="19" selection-end-line="449" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form_validation_lang.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/language/english/form_validation_lang.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-576">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servicio_index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/servicio/servicio_index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="97" column="56" lean-forward="false" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -55,6 +167,10 @@
       <find>sixth</find>
       <find>third</find>
       <find>data-animate=&quot;bounceIn&quot; data-delay=&quot;</find>
+      <find>trans</find>
+      <find>trans_line</find>
+      <find>base_url_lang()</find>
+      <find>lang</find>
     </findStrings>
     <replaceStrings>
       <replace>MAIL_VENTAS</replace>
@@ -64,6 +180,7 @@
       <replace>Imagen de Prueba</replace>
       <replace>third</replace>
       <replace>sixth</replace>
+      <replace>base_url()</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -83,17 +200,21 @@
         <option value="$PROJECT_DIR$/application/views/footers/footer_uno.php" />
         <option value="$PROJECT_DIR$/assets/css/colors.php" />
         <option value="$PROJECT_DIR$/application/controllers/Servicio.php" />
-        <option value="$PROJECT_DIR$/application/views/menus/menu_uno.php" />
         <option value="$PROJECT_DIR$/application/config/constants.php" />
         <option value="$PROJECT_DIR$/application/config/constants.php" />
         <option value="$PROJECT_DIR$/application/views/contacto/contacto_envio_satisfactorio.php" />
-        <option value="$PROJECT_DIR$/application/views/servicio/servicio_index.php" />
-        <option value="$PROJECT_DIR$/application/views/inicio/inicio_index.php" />
         <option value="$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php" />
         <option value="$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php" />
         <option value="$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php" />
         <option value="$PROJECT_DIR$/application/language/spanish/contacto/contacto_index_lang.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/views/inicio/inicio_index.php" />
+        <option value="$PROJECT_DIR$/application/views/menus/menu_uno.php" />
+        <option value="$PROJECT_DIR$/application/views/servicio/servicio_index.php" />
+        <option value="$PROJECT_DIR$/application/helpers/uri_helper.php" />
         <option value="$PROJECT_DIR$/application/views/contacto/contacto_index.php" />
+        <option value="$PROJECT_DIR$/application/views/contacto/contacto_email_ventas.php" />
+        <option value="$PROJECT_DIR$/application/views/contacto/contacto_email_prospecto.php" />
         <option value="$PROJECT_DIR$/application/controllers/Contacto.php" />
       </list>
     </option>
@@ -106,10 +227,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1042" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -129,6 +250,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,13 +393,160 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="inicio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="contacto" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renta-antiguo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -289,11 +558,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\proyectos\renta-antiguo\application\language\spanish" />
       <recent name="C:\xampp\htdocs\proyectos\renta-antiguo\assets\images\portfolio" />
       <recent name="C:\xampp\htdocs\proyectos\renta-antiguo\assets\js" />
       <recent name="C:\xampp\htdocs\proyectos\renta-antiguo\assets\css" />
       <recent name="C:\xampp\htdocs\proyectos\renta-antiguo\application\views\servicio" />
-      <recent name="C:\xampp\htdocs\proyectos\renta-antiguo\application\views" />
     </key>
   </component>
   <component name="RunManager">
@@ -367,20 +636,22 @@
       <workItem from="1483827955233" duration="18883000" />
       <workItem from="1483945165068" duration="21623000" />
       <workItem from="1483999552084" duration="712000" />
+      <workItem from="1484010440186" duration="2813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49946000" />
+    <option name="totallyTimeSpent" value="52759000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -392,7 +663,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -408,36 +678,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/images/slider/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/assets/images/blank.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/camera_skins.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/footer-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/grid.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/identificador_ova.png" />
     <entry file="file://$PROJECT_DIR$/assets/images/pattern2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -460,14 +700,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/logs/log-2017-01-07.php" />
     <entry file="file://$PROJECT_DIR$/application/sessions-ova/ova_session0t5o02sqjt4haa4uk4u6p5sdhnorvo86" />
-    <entry file="file://$PROJECT_DIR$/application/helpers/uri_helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/system/core/CodeIgniter.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
@@ -486,21 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-521">
           <caret line="64" column="11" lean-forward="false" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/core/MY_URI.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/core/MY_Lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,28 +754,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/libraries/Cargar_elementos_manager.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/libraries/Cargar_idioma.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Cargar_idioma.php" />
     <entry file="file://$PROJECT_DIR$/application/logs/log-2017-01-08.php" />
-    <entry file="file://$PROJECT_DIR$/application/controllers/Inicio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-117">
@@ -566,21 +763,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1530">
-          <caret line="85" column="50" lean-forward="false" selection-start-line="85" selection-start-column="50" selection-end-line="85" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/footers/footer_uno.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding>
-            <element signature="e#1441#1447#0#HTML" expanded="false" />
-            <element signature="e#1575#1581#0#HTML" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -588,13 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/menus/menu_uno.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="100" lean-forward="false" selection-start-line="4" selection-start-column="100" selection-end-line="4" selection-end-column="100" />
         </state>
       </provider>
     </entry>
@@ -606,85 +786,163 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/contacto/contacto_envio_satisfactorio.php" />
-    <entry file="file://$PROJECT_DIR$/application/controllers/Servicio.php">
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php" />
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php" />
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/footers/footer_uno_lang.php" />
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php" />
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/contacto/contacto_index_lang.php" />
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/contacto/contacto_envio_satisfactorio_lang.php" />
+    <entry file="file://$PROJECT_DIR$/application/language/spanish/contacto/contacto_suscribirse_lang.php" />
+    <entry file="file://$PROJECT_DIR$/application/libraries/Cargar_elementos_manager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        <state relative-caret-position="34">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/servicio/servicio_index.php">
+    <entry file="file://$PROJECT_DIR$/application/controllers/Servicio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2625">
-          <caret line="105" column="146" lean-forward="false" selection-start-line="105" selection-start-column="146" selection-end-line="105" selection-end-column="146" />
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Inicio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/MY_Lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/logs/log-2017-01-10.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="565" column="68" lean-forward="false" selection-start-line="565" selection-start-column="68" selection-end-line="565" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/MY_URI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="60" column="67" lean-forward="false" selection-start-line="60" selection-start-column="67" selection-end-line="60" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/MY_Loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/inicio/inicio_index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4700">
-          <caret line="188" column="54" lean-forward="false" selection-start-line="188" selection-start-column="54" selection-end-line="188" selection-end-column="54" />
-          <folding />
+        <state relative-caret-position="123">
+          <caret line="228" column="64" lean-forward="false" selection-start-line="228" selection-start-column="64" selection-end-line="228" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/inicio/inicio_index_lang.php">
+    <entry file="file://$PROJECT_DIR$/application/views/menus/menu_uno.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="-8">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/menus/menu_uno_lang.php">
+    <entry file="file://$PROJECT_DIR$/application/views/servicio/servicio_index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="337">
+          <caret line="97" column="56" lean-forward="false" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/footers/footer_uno_lang.php">
+    <entry file="file://$PROJECT_DIR$/application/helpers/uri_helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/servicio/servicio_index_lang.php">
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="342">
+          <caret line="85" column="50" lean-forward="false" selection-start-line="85" selection-start-column="50" selection-end-line="85" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/contacto/contacto_index_lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/contacto/contacto_envio_satisfactorio_lang.php" />
-    <entry file="file://$PROJECT_DIR$/application/language/spanish/contacto/contacto_suscribirse_lang.php" />
     <entry file="file://$PROJECT_DIR$/application/views/contacto/contacto_index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="246" column="23" lean-forward="false" selection-start-line="246" selection-start-column="16" selection-end-line="246" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#label#0;n#div#5;n#div#1;n#div#0;n#section#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="1668">
+          <caret line="255" column="21" lean-forward="false" selection-start-line="255" selection-start-column="21" selection-end-line="255" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/language/english/form_validation_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libraries/Form_validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="449" column="23" lean-forward="false" selection-start-line="449" selection-start-column="19" selection-end-line="449" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/contacto/contacto_email_ventas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/contacto/contacto_email_prospecto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Contacto.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="67" column="26" lean-forward="true" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+        <state relative-caret-position="-119">
+          <caret line="73" column="53" lean-forward="false" selection-start-line="73" selection-start-column="53" selection-end-line="73" selection-end-column="53" />
           <folding />
         </state>
       </provider>

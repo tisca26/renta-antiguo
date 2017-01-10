@@ -10,10 +10,10 @@
             <!-- Logo
             ============================================= -->
             <div id="logo">
-                <a href="<?php echo base_url_lang(); ?>" class="retina-logo" data-dark-logo="<?php echo cdn_assets(); ?>assets/images/logo-blanco-renta-antiguo.png" data-sticky-logo="<?php echo cdn_assets(); ?>assets/images/logo-extendido-blanco-renta-antiguo.png" data-mobile-logo="<?php echo cdn_assets(); ?>assets/images/logo-blanco-renta-antiguo.png">
+                <a href="<?php echo base_url(); ?>" class="retina-logo" data-dark-logo="<?php echo cdn_assets(); ?>assets/images/logo-blanco-renta-antiguo.png" data-sticky-logo="<?php echo cdn_assets(); ?>assets/images/logo-extendido-blanco-renta-antiguo.png" data-mobile-logo="<?php echo cdn_assets(); ?>assets/images/logo-blanco-renta-antiguo.png">
                     <img src="<?php echo cdn_assets(); ?>assets/images/logo-blanco-renta-antiguo.png" alt="Renta Antiguo - Logo">
                 </a>
-                <a href="<?php echo base_url_lang(); ?>" class="standard-logo" data-dark-logo="<?php echo cdn_assets(); ?>assets/images/logo-blanco-renta-antiguo.png" data-sticky-logo="<?php echo cdn_assets(); ?>assets/images/logo-extendido-blanco-renta-antiguo.png" data-mobile-logo="<?php echo cdn_assets(); ?>assets/images/logo-blanco-renta-antiguo.png">
+                <a href="<?php echo base_url(); ?>" class="standard-logo" data-dark-logo="<?php echo cdn_assets(); ?>assets/images/logo-blanco-renta-antiguo.png" data-sticky-logo="<?php echo cdn_assets(); ?>assets/images/logo-extendido-blanco-renta-antiguo.png" data-mobile-logo="<?php echo cdn_assets(); ?>assets/images/logo-blanco-renta-antiguo.png">
                     <img src="<?php echo cdn_assets(); ?>assets/images/logo-blanco-renta-antiguo.png" alt="Renta Antiguo - Logo">
                 </a>
             </div><!-- #logo end -->
@@ -23,18 +23,18 @@
             <nav id="primary-menu" class="style-5">
                 <ul>
                     <li class="<?php echo $menu_root === 'inicio' ? 'current' : ''; ?>">
-                        <a href="<?php echo base_url_lang(); ?>">
-                            <div><i class="icon-home2"></i><?php echo trans_line('menu_inicio'); ?></div>
+                        <a href="<?php echo base_url(); ?>">
+                            <div><i class="icon-home2"></i>Inicio</div>
                         </a>
                     </li>
                     <li class="<?php echo $menu_root === 'servicio' ? 'current' : ''; ?>">
-                        <a href="<?php echo base_url_lang();?>servicio">
-                            <div><i class="icon-road"></i><?php echo trans_line('menu_servicio'); ?></div>
+                        <a href="<?php echo base_url();?>servicio">
+                            <div><i class="icon-road"></i>Servicio</div>
                         </a>
                     </li>
                     <li class="<?php echo $menu_root === 'contacto' ? 'current' : ''; ?>">
-                        <a href="<?php echo base_url_lang(); ?>contacto">
-                            <div><i class="icon-email3"></i><?php echo trans_line('menu_contacto'); ?></div>
+                        <a href="<?php echo base_url(); ?>contacto">
+                            <div><i class="icon-email3"></i>Contacto</div>
                         </a>
                     </li>
                 </ul>

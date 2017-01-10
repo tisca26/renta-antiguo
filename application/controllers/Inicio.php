@@ -11,7 +11,6 @@ class Inicio extends CI_Controller
 
     public function index()
     {
-        $this->cargar_idioma->carga_lang('inicio/inicio_index');
         $data = array();
         $this->load->view('inicio/inicio_index', $data);
     }

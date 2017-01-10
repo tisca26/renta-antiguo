@@ -1,3 +1,5 @@
-<h2><?php echo trans_line('contacto_gracias').' '.$receptor_nombre; ?></h2>
+<h2>Gracias por ponerse en contacto con <?php echo RA.', '.$receptor_nombre;?></h2>
 
-<p><?php echo trans_line('contacto_pronto');?></p>
+<p>A la brevedad lo contactaremos</p>
+
+<a href="http://www.renta-antiguo.com">Pagina <?php echo RA;?></a>

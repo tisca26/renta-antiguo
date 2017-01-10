@@ -1,14 +1,12 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 <!DOCTYPE html>
-<html dir="ltr" lang="<?php echo trans_line('language');?>">
+<html dir="ltr" lang="es-MX">
 <head>
-    <!-- Carga extra -->
-    <?php $this->cargar_elementos_manager->carga_simple('elementos_extras/head_first'); ?>
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="author" content="<?php echo ICOGNITIS_SACV;?>"/>
-    <meta name="description" content="<?php echo trans_line('metatag_desc'); ?>">
-    <meta name="keywords" content="<?php echo trans_line('metatag_keywords'); ?>">
+    <meta name="description" content="Alquila un auto clásico para tus eventos sociales a un precio especial. Dodge Club Coupe 1946.">
+    <meta name="keywords" content="Clásico, Auto, Recorrido, Evento, Social, Antiguo, Renta">
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
     <link rel="icon" href="<?php echo cdn_assets();?>assets/images/favicon.ico" type="image/x-icon">
@@ -35,7 +33,7 @@
 
     <!-- Document Title
     ============================================= -->
-    <title><?php echo trans_line('title_tag'); ?></title>
+    <title>Renta Antiguo - Contacto</title>
 
 </head>
 
@@ -51,7 +49,7 @@
 
     <section id="page-title" class="bgcolor page-title-dark">
         <div class="container clearfix">
-            <h1><?php echo trans_line('contacto_page_title');?></h1>
+            <h1>Contacto</h1>
             <span>Te ofrecemos el mejor servicio</span>
         </div>
     </section>
@@ -73,14 +71,14 @@
                         <div class="form-process"></div>
 
                         <div class="col_one_third">
-                            <label for="contactform-name"><?php echo trans_line('contacto_form_nombre');?>
+                            <label for="contactform-name">Nombre
                                 <small>*</small>
                             </label>
                             <?php echo form_input('nombre', set_value('nombre'), 'id="nombre" class="sm-form-control required"'); ?>
                         </div>
 
                         <div class="col_one_third">
-                            <label for="contactform-email"><?php echo trans_line('contacto_form_mail');?>
+                            <label for="contactform-email">Correo electrónico
                                 <small>*</small>
                             </label>
                             <input type="email" id="correo" name="correo" value="<?php echo set_value('correo') ?>"
@@ -88,10 +86,10 @@
                         </div>
 
                         <div class="col_one_third col_last">
-                            <label for="contactform-phone"><?php echo trans_line('contacto_form_telefono');?>
+                            <label for="contactform-phone">Teléfono
                                 <small>*</small>
                             </label>
-                            <input type="text" id="telefono" name="telefono" value=""
+                            <input type="text" id="telefono" name="telefono" value="<?php echo set_value('telefono') ?>"
                                    class="required sm-form-control"/>
                         </div>
 
@@ -101,7 +99,7 @@
                             <label for="contactform-evento" style="display:block; margin-bottom: 14px;">Evento
                                 <small>*</small>
                             </label>
-                            <?php echo form_dropdown('evento', $eventos, '', 'class="selectpicker" id="evento"'); ?>
+                            <?php echo form_dropdown('evento', $eventos, '', 'class="selectpicker" id="evento" value="'.set_value('evento').'"'); ?>
                         </div>
 
                         <div class="col_one_third travel-date-group">
@@ -109,7 +107,7 @@
                                 <small>*</small>
                             </label>
                             <div class="input-group">
-                                <input type="text" id="fecha" name="fecha" value=""
+                                <input type="text" id="fecha" name="fecha" value="<?php echo set_value('fecha') ?>"
                                        class="required sm-form-control today" placeholder="DD/MM/AAA"/>
                                 <span class="input-group-addon">
                                     <span class="icon-calendar2"></span>
@@ -120,7 +118,7 @@
                         <div class="col_one_third col_last travel-date-group">
                             <label for="contactoform-hora">Hora tentativa para recogerlo/a</label>
                             <div class="input-group date">
-                                <input type="text" id="hora" name="hora" value="" class="tleft sm-form-control datetimepicker1"  placeholder="00:00 AM/PM"/>
+                                <input type="text" id="hora" name="hora" value="<?php echo set_value('hora') ?>" class="tleft sm-form-control datetimepicker1"  placeholder="00:00 AM/PM"/>
                                 <span class="input-group-addon">
                                     <span class="icon-clock"></span>
                                 </span>
@@ -151,7 +149,7 @@
 
                         <div class="col_full">
                             <button class="button button-3d nomargin" type="submit" id="btn_submit"
-                                    name="contactform-submit" value="submit"><?php echo trans_line('contacto_form_enviar');?>
+                                    name="contactform-submit" value="submit">Enviar
                             </button>
                         </div>
 
@@ -164,7 +162,7 @@
     </section><!-- #content end -->
 
     <!-- Footer -->
-    <?php $this->cargar_elementos_manager->carga_con_lang('footers/footer_uno'); ?>
+    <?php $this->cargar_elementos_manager->carga_simple('footers/footer_uno'); ?>
     <!-- /Footer -->
 
 </div><!-- #wrapper end -->
@@ -203,26 +201,31 @@
             ignore: "", // validate all fields including form hidden input
             messages: {
                 correo:{
-                    required: "<?php echo trans_line('required'); ?>",
-                    email: "<?php echo trans_line('correo'); ?>",
-                    minlength: jQuery.validator.format("<?php echo trans_line('minlength'); ?>")
+                    required: "Este campo es requerido",
+                    email: "Este campo debe ser un correo electrónico válido",
+                    minlength: jQuery.validator.format("Este campo debe contener un mínimo de {0} caracteres")
                 },
                 nombre: {
-                    required: "<?php echo trans_line('required'); ?>",
-                    minlength: jQuery.validator.format("<?php echo trans_line('minlength'); ?>")
+                    required: "Este campo es requerido",
+                    minlength: jQuery.validator.format("Este campo debe contener un mínimo de {0} caracteres")
                 },
                 telefono:{
-                    required: "<?php echo trans_line('required'); ?>",
-                    digits: "<?php echo trans_line('digits'); ?>",
-                    minlength: jQuery.validator.format("<?php echo trans_line('minlength'); ?>")
+                    required: "Este campo es requerido",
+                    digits: "Este campo debe contener solo números del 0-9",
+                    minlength: jQuery.validator.format("Este campo debe contener un mínimo de {0} caracteres")
                 },
-                asunto:{
-                    required: "<?php echo trans_line('required'); ?>",
-                    minlength: jQuery.validator.format("<?php echo trans_line('minlength'); ?>")
+                evento:{
+                    required: "Este campo es requerido"
                 },
                 mensaje:{
-                    required: "<?php echo trans_line('required'); ?>",
-                    minlength: jQuery.validator.format("<?php echo trans_line('minlength'); ?>")
+                    required: "Este campo es requerido",
+                    minlength: jQuery.validator.format("Este campo debe contener un mínimo de {0} caracteres")
+                },
+                hora:{
+                    required: "Este campo es requerido"
+                },
+                fecha:{
+                    required: "Este campo es requerido"
                 }
             },
             rules: {
@@ -240,13 +243,18 @@
                     digits: true,
                     required: true
                 },
-                asunto:{
-                    required: true,
-                    minlength: 3
-                },
                 mensaje:{
                     required: true,
                     minlength: 3
+                },
+                evento:{
+                    required: true
+                },
+                hora:{
+                    required: true
+                },
+                fecha:{
+                    required: true
                 }
             },
 
@@ -280,7 +288,7 @@
             },
 
             submitHandler: function (form) {
-                $('#btn_submit').html("<?php echo trans_line('btn_submit_loading'); ?>");
+                $('#btn_submit').html("Enviando...");
                 $('#btn_submit').prop('disabled', true);
                 form.submit();
             }
