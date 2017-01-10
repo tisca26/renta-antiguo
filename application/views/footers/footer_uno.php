@@ -34,7 +34,7 @@
 
                     <i class="icon-email3" style="margin-right: 5px;"></i>&nbsp;<?php echo MAIL_VENTAS;?> <span class="middot hidden-xs hidden-sm">·</span>
                     <br class="visible-xs visible-sm"/>
-                    <i class="icon-call" style="margin-right: 5px;"></i>&nbsp;<?php echo TEL_VENTAS;?>
+                    <i class="icon-call" style="margin-right: 5px;"></i>&nbsp;<a href="tel:<?php echo TEL_VENTAS;?>"><?php echo TEL_VENTAS;?></a>
                 </div>
 
             </div>
