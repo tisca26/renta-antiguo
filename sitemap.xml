@@ -3,17 +3,17 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>http://www.renta-antiguo.com/</loc>
+        <loc>http://renta-antiguo.com/</loc>
         <lastmod>2017-01-09</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://www.renta-antiguo.com/servicio</loc>
+        <loc>http://renta-antiguo.com/servicio</loc>
         <lastmod>2017-01-09</lastmod>
         <priority>0.4</priority>
     </url>
     <url>
-        <loc>http://www.renta-antiguo.com/contacto</loc>
+        <loc>http://renta-antiguo.com/contacto</loc>
         <lastmod>2017-01-09</lastmod>
         <priority>0.5</priority>
     </url>
