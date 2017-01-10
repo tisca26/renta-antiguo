@@ -102,13 +102,17 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="sitemap.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sitemap.xml">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
@@ -183,6 +187,8 @@
         <option value="$PROJECT_DIR$/application/views/inicio/inicio_index.php" />
         <option value="$PROJECT_DIR$/application/views/servicio/servicio_index.php" />
         <option value="$PROJECT_DIR$/robots.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/sitemap.xml" />
       </list>
     </option>
   </component>
@@ -338,10 +344,12 @@
       <workItem from="1483827955233" duration="18883000" />
       <workItem from="1483945165068" duration="21623000" />
       <workItem from="1483999552084" duration="712000" />
+      <workItem from="1484010440186" duration="6426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -638,12 +646,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="78" column="17" lean-forward="false" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
           <folding />
         </state>
       </provider>
