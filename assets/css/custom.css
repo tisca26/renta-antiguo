@@ -39,3 +39,12 @@
     }
 
 }
+
+@media (max-width: 767px) {
+
+    #copyrights .col_half:last-child {
+        display: block;
+        text-align: center;
+    }
+
+}
