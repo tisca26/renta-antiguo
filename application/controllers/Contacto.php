@@ -40,8 +40,7 @@ class Contacto extends CI_Controller
             $this->_enviar_correo_a_ventas($receptor_nombre, $receptor_mail, $receptor_telefono, $receptor_evento, $receptor_mensaje, $receptor_fecha, $receptor_hora);
 
             set_bootstrap_alert('El correo ha sido enviado exitosamente.', BOOTSTRAP_ALERT_SUCCESS);
-            $data['eventos'] = $this->_genera_eventos_sel();
-            $this->load->view('contacto/contacto_index', $data);
+            redirect('contacto');
         }
     }
 

@@ -104,19 +104,19 @@
                         <div class="masonry-thumbs clearfix col-4" data-class-xs="col-2" data-class-xss="col-2" data-class-lg="col-4" data-class-sm="col-4" data-class-md="col-4" data-lightbox="gallery">
                             <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-1.jpg" data-lightbox="gallery-item">
                                 <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-1-thumbnail.jpg" alt="Gallery Image">
-                                <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
+                                <div class="overlay"><div class="overlay-wrap"><i class="icon-camera"></i></div></div>
                             </a>
                             <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-2.jpg" data-lightbox="gallery-item">
                                 <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-2-thumbnail.jpg" alt="Gallery Image">
-                                <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
+                                <div class="overlay"><div class="overlay-wrap"><i class="icon-camera"></i></div></div>
                             </a>
                             <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-3.jpg" data-lightbox="gallery-item">
                                 <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-3-thumbnail.jpg" alt="Gallery Image">
-                                <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
+                                <div class="overlay"><div class="overlay-wrap"><i class="icon-camera"></i></div></div>
                             </a>
                             <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-4.jpg" data-lightbox="gallery-item">
                                 <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-4-thumbnail.jpg" alt="Gallery Image">
-                                <div class="overlay"><div class="overlay-wrap"><i class="icon-play"></i></div></div>
+                                <div class="overlay"><div class="overlay-wrap"><i class="icon-camera"></i></div></div>
                             </a>
                         </div>
                     </div>
