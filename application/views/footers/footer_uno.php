@@ -34,13 +34,9 @@
 
                     <i class="icon-email3" style="margin-right: 5px;"></i>&nbsp;<?php echo MAIL_VENTAS;?> <span class="middot hidden-xs hidden-sm">·</span>
                     <br class="visible-xs visible-sm"/>
-<<<<<<< HEAD
-                    <i class="icon-call" style="margin-right: 5px;"></i>&nbsp;<?php echo TEL_VENTAS;?> <span class="middot hidden-xs hidden-sm">·</span>
+                    <i class="icon-call" style="margin-right: 5px;"></i>&nbsp;<a href="tel:<?php echo TEL_VENTAS;?>"><?php echo TEL_VENTAS;?></a> <span class="middot hidden-xs hidden-sm">·</span>
                     <br class="visible-xs visible-sm"/>
                     <i class="icon-camera" style="margin-right: 5px;"></i>&nbsp;Fotografías: Federico Godinez
-=======
-                    <i class="icon-call" style="margin-right: 5px;"></i>&nbsp;<a href="tel:<?php echo TEL_VENTAS;?>"><?php echo TEL_VENTAS;?></a>
->>>>>>> origin/master
                 </div>
 
             </div>
