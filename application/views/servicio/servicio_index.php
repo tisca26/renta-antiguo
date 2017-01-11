@@ -101,7 +101,7 @@
                         </div>
                     </div>
                     <div class="col_full">
-                        <div class="masonry-thumbs clearfix col-4" data-class-xs="col-2" data-class-xss="col-2" data-class-lg="col-4" data-class-sm="col-4" data-class-md="col-4" data-lightbox="gallery">
+                        <div class="masonry-thumbs clearfix" data-class-xs="col-2" data-class-xss="col-2" data-class-lg="col-4" data-class-sm="col-4" data-class-md="col-4" data-lightbox="gallery">
                             <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-1.jpg" data-lightbox="gallery-item">
                                 <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-1-thumbnail.jpg" alt="Gallery Image">
                                 <div class="overlay"><div class="overlay-wrap"><i class="icon-camera"></i></div></div>

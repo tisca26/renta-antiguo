@@ -58,7 +58,7 @@
 
             <div id="nivocaption1" class="nivo-html-caption">Servicio de 4 horas en un auto clásico de lujo</div>
             <div id="nivocaption2" class="nivo-html-caption">Interiores impecables</div>
-            <div id="nivocaption3" class="nivo-html-caption">Una experiencia única</div>
+            <div id="nivocaption3" class="nivo-html-caption">Foto: Federico Godinez</div>
             <div id="nivocaption4" class="nivo-html-caption">Actor: Mauricio Galan Cárdenas</div>
             <div id="nivocaption5" class="nivo-html-caption">Certificado por el IPN</div>
             <div id="nivocaption6" class="nivo-html-caption">Sorprende a todo el mundo</div>
@@ -79,7 +79,7 @@
                             <span data-animate="fadeIn" data-delay="200">Ideal para cualquier evento social</span>
                         </div>
                         <div class="col_full">
-                            <div class="masonry-thumbs clearfix col-4" data-class-xs="col-2" data-class-xss="col-2" data-class-lg="col-4" data-class-sm="col-4" data-class-md="col-4" data-lightbox="gallery">
+                            <div class="masonry-thumbs clearfix" data-class-xs="col-2" data-class-xss="col-2" data-class-lg="col-4" data-class-sm="col-4" data-class-md="col-4" data-lightbox="gallery">
                                 <a href="<?php echo cdn_assets();?>assets/images/portfolio/dodge-club-coupe-1946-portfolio-1.jpg" data-lightbox="gallery-item">
                                     <img src="<?php echo cdn_assets();?>assets/images/portfolio/thumbnails/dodge-club-coupe-1946-portfolio-1-thumbnail.jpg" alt="Gallery Image">
                                     <div class="overlay"><div class="overlay-wrap"><i class="icon-camera"></i></div></div>
@@ -134,7 +134,7 @@
                                                     <div class="overlay">
                                                         <div class="text-overlay">
                                                             <div class="text-overlay-title">
-                                                                <h3>Dodge Club Coupe 1947</h3>
+                                                                <h3>Dodge Club Coupe 1946</h3>
                                                             </div>
                                                             <div class="text-overlay-meta">
                                                                 <span>Auto clásico</span>
@@ -144,6 +144,16 @@
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-2-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-2.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Federico Godinez</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Fotografo</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-3-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-3.jpg" alt="">
@@ -163,9 +173,29 @@
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-5-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-5.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Federico Godinez</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Fotografo</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-6-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-6.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Mauricio Galan Cárdenas</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Actor</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-7-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-7.jpg" alt="">
@@ -185,24 +215,94 @@
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-10-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-10.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Federico Godinez</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Fotografo</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-11-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-11.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Federico Godinez</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Fotografo</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-12-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-12.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Federico Godinez</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Fotografo</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-13-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-13.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Federico Godinez</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Fotografo</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-14-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-14.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Mauricio Galan Cárdenas</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Actor</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-15-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-15.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Mauricio Galan Cárdenas</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Actor</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-16-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-16.jpg" alt="">
+                                                    <div class="overlay">
+                                                        <div class="text-overlay">
+                                                            <div class="text-overlay-title">
+                                                                <h3>Mauricio Galan Cárdenas</h3>
+                                                            </div>
+                                                            <div class="text-overlay-meta">
+                                                                <span>Actor</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-1-thumbnail.jpg">
                                                     <iframe src="https://www.youtube.com/embed/J0Rmd1F2_hU" width="750" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
