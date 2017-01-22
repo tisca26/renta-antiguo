@@ -17,13 +17,11 @@
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/bootstrap.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/style.css" type="text/css"/>
-    <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/swiper.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/dark.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/font-icons.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/animate.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/magnific-popup.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/responsive.css" type="text/css"/>
-    <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/custom.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/colors.php" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/nivo-slider.css" type="text/css" />
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/components/pricing-table.css" type="text/css" />
@@ -121,7 +119,7 @@
                     </div>
 
                 </section>
-                <section class="section pricing-section header-sitck dark nomargin" style="background:#333;">
+                <section class="section pricing-section header-sitck dark nomargin" style="background:#383838;">
                     <div class="container clearfix">
                         <div class="row">
                             <div class="col-md-8 ">
@@ -333,10 +331,14 @@
                             </div>
                         </div>
                         <div class="col_full center" id="recorrido">
-                            <div class="fancy-title title-double-border title-center" style="padding-bottom:30px;">
+                            <div class="fancy-title title-double-border title-center" style="margin-bottom:60px;">
                                 <h3>Conoce nuestro Dodge en una vista de 360°</h3>
                             </div>
-                            <iframe src="http://www.traduccionescientificas.com.mx"></iframe>
+                            <style>
+                                #recorrido-icognitis{width:700px;height:500px;margin:auto!important;display:block!important}@media (min-width:1200px){#recorrido-icognitis{width:700px;height:500px}}@media (min-width:768px) and (max-width:1199px){#recorrido-icognitis{width:600px;height:400px}}@media (min-width:480px) and (max-width:767px){#recorrido-icognitis{width:100%;height:300px}}@media (max-width:479px){#recorrido-icognitis{width:100%;height:400px}}
+                            </style>
+                            <iframe id="recorrido-icognitis" width="500" height="700" src="http://recorridos.icognitis.com/renta-antiguo"></iframe>
+                            <a href="http://recorridos.icognitis.com/renta-antiguo" target="_blank">Abrir en pantalla completa</a>
                         </div>
                     </div>
                 </section>

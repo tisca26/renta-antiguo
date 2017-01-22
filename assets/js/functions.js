@@ -709,7 +709,7 @@ var SEMICOLON = SEMICOLON || {};
 				inDuration : Number(durationIn),
 				outDuration : Number(durationOut),
 				linkElement : '#primary-menu ul li a:not([target="_blank"]):not([href*="#"]):not([data-lightbox]):not([href^="mailto"]):not([href^="tel"]):not([href^="sms"]):not([href^="call"])',
-				loading : true,
+				loading : false,
 				loadingParentElement : 'body',
 				loadingClass : 'css3-spinner',
 				loadingHtml : loaderStyleHtml,

@@ -33,7 +33,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#recorrido" data-scrollto="#recorrido">
+                        <a href="<?php echo base_url();?>#recorrido" <?php echo $menu_root === 'inicio' ? 'data-scrollto="#recorrido' : ''; ?>">
                             <div><i class="icon-picture"></i>360°</div>
                         </a>
                     </li>

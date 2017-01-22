@@ -17,13 +17,11 @@
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/bootstrap.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/style.css" type="text/css"/>
-    <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/swiper.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/dark.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/font-icons.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/animate.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/magnific-popup.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/responsive.css" type="text/css"/>
-    <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/custom.css" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/colors.php" type="text/css"/>
     <link rel="stylesheet" href="<?php echo cdn_assets(); ?>assets/css/components/pricing-table.css" type="text/css" />
 
@@ -63,7 +61,7 @@
                             </div>
                             <ul class="iconlist">
                                 <li><i class="icon-star3"></i> Dodge Club Coupe 1946</li>
-                                <li><i class="icon-line-loader"></i> Impecable de exteriores e interiores</li>
+                                <li><i class="icon-ok-sign"></i> Impecable de exteriores e interiores</li>
                                 <li><i class="icon-stack"></i> Placas de auto antiguo</li>
                                 <li><i class="icon-diamond"></i> Premio Record Guiness</li>
                                 <li><i class="icon-certificate"></i> Certificado por el IPN</li>
