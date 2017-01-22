@@ -32,6 +32,11 @@
                             <div><i class="icon-road"></i>Servicio</div>
                         </a>
                     </li>
+                    <li>
+                        <a href="#recorrido" data-scrollto="#recorrido">
+                            <div><i class="icon-picture"></i>360°</div>
+                        </a>
+                    </li>
                     <li class="<?php echo $menu_root === 'contacto' ? 'current' : ''; ?>">
                         <a href="<?php echo base_url(); ?>contacto">
                             <div><i class="icon-email3"></i>Contacto</div>
@@ -39,15 +44,15 @@
                     </li>
                 </ul>
 
-                <a href="<?php echo FACEBOOK;?>" class="social-icon si-small si-borderless nobottommargin si-facebook" target="_blank">
+                <a href="<?php echo FACEBOOK;?>" class="hidden-md social-icon si-small si-borderless nobottommargin si-facebook " target="_blank">
                     <i class="icon-facebook"></i>
                     <i class="icon-facebook"></i>
                 </a>
-                <a href="<?php echo TWITTER;?>" class="social-icon si-small si-borderless nobottommargin si-twitter hidden-xs hidden-sm" target="_blank">
+                <a href="<?php echo TWITTER;?>" class="hidden-md social-icon si-small si-borderless nobottommargin si-twitter hidden-xs hidden-sm" target="_blank">
                     <i class="icon-twitter"></i>
                     <i class="icon-twitter"></i>
                 </a>
-                <a href="tel:<?php echo TEL_VENTAS?>" class="button button-light button-border button-small button-rounded hidden-xs hidden-sm" style="border:none; background: none !important; color: #EEE;">
+                <a href="tel:<?php echo TEL_VENTAS?>" class="hidden-md button button-light button-border button-small button-rounded hidden-xs hidden-sm" style="border:none; background: none !important; color: #EEE;">
                     <i class="icon-call"></i><?php echo TEL_VENTAS;?>
                 </a>
 

@@ -34,7 +34,7 @@
 
 </head>
 
-<body class="stretched">
+<body class="stretched no-transition">
 
     <!-- Document Wrapper
     ============================================= -->
@@ -99,23 +99,23 @@
                             </div>
                         </div>
                         <div class="col_full">
-                            <div class="col_one_sixth nobottommargin">
-                                <h4 data-animate="bounceIn" data-delay="0">Bodas</h4>
+                            <div class="col-md-2 col-sm-4 col-xs-6 nobottommargin">
+                                <h4 data-animate="bounceIn" data-delay="0"><i class="icon-diamond"></i> Bodas</h4>
                             </div>
-                            <div class="col_one_sixth nobottommargin">
-                                <h4 data-animate="bounceIn" data-delay="200">XV Años</h4>
+                            <div class="col-md-2 col-sm-4 col-xs-6 nobottommargin">
+                                <h4 data-animate="bounceIn" data-delay="200"><i class="icon-diamond"></i> XV Años</h4>
                             </div>
-                            <div class="col_one_sixth nobottommargin">
-                                <h4 data-animate="bounceIn" data-delay="400">Graduaciones</h4>
+                            <div class="col-md-2 col-sm-4 col-xs-6 nobottommargin">
+                                <h4 data-animate="bounceIn" data-delay="400"><i class="icon-diamond"></i> Graduaciones</h4>
                             </div>
-                            <div class="col_one_sixth nobottommargin">
-                                <h4 data-animate="bounceIn" data-delay="600">Aniversarios</h4>
+                            <div class="col-md-2 col-sm-4 col-xs-6 nobottommargin">
+                                <h4 data-animate="bounceIn" data-delay="600"><i class="icon-diamond"></i> Aniversarios</h4>
                             </div>
-                            <div class="col_one_sixth nobottommargin">
-                                <h4 data-animate="bounceIn" data-delay="800">Televisión</h4>
+                            <div class="col-md-2 col-sm-4 col-xs-6 nobottommargin">
+                                <h4 data-animate="bounceIn" data-delay="800"><i class="icon-diamond"></i> Televisión</h4>
                             </div>
-                            <div class="col_one_sixth col_last nobottommargin">
-                                <h4 data-animate="bounceIn" data-delay="1000">Películas</h4>
+                            <div class="col-md-2 col-sm-4 col-xs-6 nobottommargin">
+                                <h4 data-animate="bounceIn" data-delay="1000"><i class="icon-diamond"></i> Películas</h4>
                             </div>
                         </div>
                     </div>
@@ -126,9 +126,12 @@
                         <div class="row">
                             <div class="col-md-8 ">
                                 <div class="col_full">
-                                    <div class="fslider flex-thumb-grid grid-8" data-animation="fade" data-arrows="true" data-thumbs="true">
+                                    <div class="fslider flex-thumb-grid" data-animation="fade" data-arrows="true" data-thumbs="true" data-class-lg="grid-8" data-class-md="grid-8" data-class-sm="grid-6" data-class-xs="grid-4" data-class-xss="grid-3">
                                         <div class="flexslider">
                                             <div class="slider-wrap">
+                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/youtube-thumbnail.jpg">
+                                                    <iframe src="https://www.youtube.com/embed/xC7dIpdvwAg" width="750" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                                                </div>
                                                 <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-1-thumbnail.jpg">
                                                     <img src="<?php echo cdn_assets();?>assets/images/gallery/dodge-club-coupe-1946-gallery-1.jpg" alt="">
                                                     <div class="overlay">
@@ -304,9 +307,6 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="slide" data-thumb="<?php echo cdn_assets();?>assets/images/gallery/thumbnails/dodge-club-coupe-1946-gallery-1-thumbnail.jpg">
-                                                    <iframe src="https://www.youtube.com/embed/J0Rmd1F2_hU" width="750" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -331,6 +331,12 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                        <div class="col_full center" id="recorrido">
+                            <div class="fancy-title title-double-border title-center" style="padding-bottom:30px;">
+                                <h3>Conoce nuestro Dodge en una vista de 360°</h3>
+                            </div>
+                            <iframe src="http://www.traduccionescientificas.com.mx"></iframe>
                         </div>
                     </div>
                 </section>
