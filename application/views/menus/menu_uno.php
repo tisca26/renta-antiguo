@@ -48,10 +48,10 @@
                     <i class="icon-facebook"></i>
                     <i class="icon-facebook"></i>
                 </a>
-                <a href="<?php echo TWITTER;?>" class="hidden-md social-icon si-small si-borderless nobottommargin si-twitter hidden-xs hidden-sm" target="_blank">
+                <!--<a href="<?php echo TWITTER;?>" class="hidden-md social-icon si-small si-borderless nobottommargin si-twitter hidden-xs hidden-sm" target="_blank">
                     <i class="icon-twitter"></i>
                     <i class="icon-twitter"></i>
-                </a>
+                </a>-->
                 <a href="tel:<?php echo TEL_VENTAS?>" class="hidden-md button button-light button-border button-small button-rounded hidden-xs hidden-sm" style="border:none; background: none !important; color: #EEE;">
                     <i class="icon-call"></i><?php echo TEL_VENTAS;?>
                 </a>

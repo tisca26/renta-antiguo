@@ -95,7 +95,7 @@ defined('BOOTSTRAP_ALERT_DANGER')   OR define('BOOTSTRAP_ALERT_DANGER', 'danger'
 /*
  * Redes sociales
  */
-defined('FACEBOOK')             OR define('FACEBOOK', 'https://www.facebook.com/mauricio.galancardenas');
+defined('FACEBOOK')             OR define('FACEBOOK', 'https://www.facebook.com/renta.antiguo');
 defined('TWITTER')              OR define('TWITTER', 'https://twitter.com/@GalnMauricio');
 
 /*
